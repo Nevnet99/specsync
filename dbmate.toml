@@ -1,0 +1,3 @@
+url = "env:DATABASE_URL"
+migrations_dir = "migrations"
+schema_file = "db/schema.sql"
